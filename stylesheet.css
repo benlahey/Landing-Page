@@ -1,0 +1,121 @@
+.Nav {
+  background-color: #1f2937;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.HeaderLogo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.navbar {
+  list-style-type: none;
+  display: flex;
+  margin: 8px;
+  padding: 0px;
+  gap: 10px;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.Main-Content {
+  background-color: #1f2937;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  margin: 0px;
+  padding: 50px;
+}
+
+.first-text {
+  color: #f9faf8;
+  font-size: 48px;
+  flex: 1;
+}
+
+.sec-text {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.button {
+  color: white;
+  background-color: #3882f6;
+  width: 75px;
+  border-radius: 8px;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  padding: 25px;
+}
+.Sec-content {
+  background-color: gray;
+  margin: 25px;
+  gap: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 36px;
+  color: #1f2937;
+}
+
+.div-images {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+}
+
+.images {
+  display: flex;
+  flex-direction: column;
+  border: 10px solid cyan;
+  border-radius: 16px;
+}
+
+.Quote {
+  margin: 0px;
+  padding: 50px;
+  background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+}
+
+.quote-text {
+  display: flex;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1f2937;
+  opacity: 0.6;
+  padding: 20px;
+}
+
+.quote-quote {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 100px;
+}
+
+.footer {
+  background-color: #1f2937;
+  color: white;
+  margin: 60px;
+  padding: 25px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer-text-text {
+  display: flex;
+}
